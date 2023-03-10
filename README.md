@@ -10,10 +10,8 @@ A Virtual Machine provider
 A tool that sits on top of a VM provider
 
 ## Resources:
-	* [Virtual machine][1]
-	* [man uname][2]
-	[1]: https://en.wikipedia.org/wiki/Virtual_machine
-	[2]: https://linux.die.net/man/1/uname
+* [Virtual machine](https://en.wikipedia.org/wiki/Virtual_machine)
+* [man uname](https://linux.die.net/man/1/uname)
 
 ## About this project:
-To know what this project is about, check [here][3]
+To know what this project is about, check [here](https://github.com/AkhatorKing1/zero_day/tree/main/0x00-vagrant)
